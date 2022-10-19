@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.interview</groupId>
-	<artifactId>interview</artifactId>
+	<artifactId>SpringBootCurdApis</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>interview</name>
 	<description>Store image project for Spring Boot</description>
